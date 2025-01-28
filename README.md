@@ -1,2 +1,2 @@
 # discordbots
-various discord bots
+various discord bots I have made or helped create
